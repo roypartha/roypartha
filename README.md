@@ -30,8 +30,8 @@
     <b>Framework :</b> <br/>
     <!-- .NET -->
     <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
-<!-- Java Spring -->
-   <a href="https://spring.io/" target="_blank"> <img src="/Resourcse/spring-3" alt="dotnet" width="40" height="40"/> </a>
+   <!-- JavaSpring -->
+   <a href="https://spring.io/" target="_blank"> <img src="/Resources/spring-3" alt="Spring" width="40" height="40"/> </a>
 </div>
 <div>
     <b>Frontend :</b> <br/>
