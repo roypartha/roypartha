@@ -18,24 +18,21 @@
     <!-- C -->
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
     <!-- Python -->
-    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <!-- Kotlin -->
-    <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-    <!-- LaTex -->
+    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <!-- LaTex -->
     <a href="" target="_blank"> <img src="https://www.latex-project.org/img/latex-project-logo.svg" alt="Latex" width="120" height="40"/> </a>
-    <!-- MarkDown -->
-    <a href="" target="_blank"> <img src="https://seeklogo.com/images/M/markdown-logo-102FDA095E-seeklogo.com.png?v=637829616810000000" alt="MarkDown" width="50" height="35"/> </a>
+<!-- PHP -->
+    <a href="https://www.w3schools.com/php/DEFAULT.asp" target="_blank"> <img src="https://worldvectorlogo.com/logo/php-1" alt="PHP" width="120" height="40"/> </a>
+    
+    
 </div>
 <div>
     <b>Framework :</b> <br/>
-    <!-- Swing -->
-    <a href="" target="_blank"> <img src="/Resources/swing.svg" alt="swing" width="40" height="40"/> </a>
     <!-- .NET -->
     <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
-    <!-- Gradle -->
-    <a href="" target="_blank" rel="noreferrer"> <img src="/Resources/gradle.svg" alt="gradle" width="40" height="40"/> </a>
-    <!-- Xamarin -->
-    <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a>
+
+     <!-- Java Spring -->
+   <a href="https://spring.io/" target="_blank"> <img src="https://worldvectorlogo.com/logo/spring-3" alt="dotnet" width="40" height="40"/> </a>
 </div>
 <div>
     <b>Frontend :</b> <br/>
@@ -81,10 +78,6 @@
     <a href="https://visualstudio.microsoft.com/vs/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/V/visual-studio-logo-14F95CF819-seeklogo.com.png" alt="visual-Studio" width="40" height="40"/> </a>
     <!-- Visual-Studio-Code -->
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="visual-Studio-Code" width="40" height="40"/> </a>
-    <!-- Android-Studio -->
-    <a href="https://developer.android.com/studio?gclid=Cj0KCQjwuaiXBhCCARIsAKZLt3nzlBgB0y-bTdckFbolhex5xSHhoNzbJKJHYTBGElXSHjAxDwvx0_IaAht4EALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/512px-Android_Studio_Icon_3.6.svg.png?20210301045217" alt="android-Studio" width="40" height="40"/> </a>
-    <!-- Pycharm -->
-    <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png" alt="pycharm" width="40" height="40"/> </a>
     <!-- CodeBlocks -->
     <a href="http://www.codeblocks.org/downloads/binaries/" target="_blank" rel="noreferrer"> <img src="https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/org.codeblocks.codeblocks.png" alt="codeBlocks" width="40" height="40"/> </a>
 </div>
