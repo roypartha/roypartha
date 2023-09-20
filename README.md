@@ -20,7 +20,7 @@
     <!-- Python -->
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   <!-- LaTex -->
-    <a href="" target="_blank"> <img src="https://www.latex-project.org/img/latex-project-logo.svg" alt="Latex" width="120" height="40"/> </a>
+    <a href="https://www.latex-project.org/" target="_blank"> <img src="https://www.latex-project.org/img/latex-project-logo.svg" alt="Latex" width="120" height="40"/> </a>
 <!-- PHP -->
     <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" target="_blank"> <img src="/Resources/php.svg" alt="PHP" width="120" height="40"/> </a>
     
