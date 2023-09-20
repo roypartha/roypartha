@@ -22,7 +22,7 @@
   <!-- LaTex -->
     <a href="" target="_blank"> <img src="https://www.latex-project.org/img/latex-project-logo.svg" alt="Latex" width="120" height="40"/> </a>
 <!-- PHP -->
-    <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" target="_blank"> <img src="https://worldvectorlogo.com/logo/php-1" alt="PHP" width="120" height="40"/> </a>
+    <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" target="_blank"> <img src="/Resources/php.sva" alt="PHP" width="120" height="40"/> </a>
     
     
 </div>
