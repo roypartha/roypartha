@@ -7,7 +7,7 @@
 - 📫 How to reach me : partharoy200131@gmail.com
 <hr/>
 <div>
-    <a href="" target="_blank"> <img src="/Resources/name.gif" alt="csharp" width="40" height="40"/> </a>
+    <a href="" target="_blank"> <img src="/Resources/name.gif" alt="csharp" width="100" height="100"/> </a>
 </div>
 <hr/>
 <div>
