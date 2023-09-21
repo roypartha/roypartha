@@ -5,7 +5,10 @@
 - 💞️ I’m looking to for help with java
 - 💬 Ask me about any tech related question
 - 📫 How to reach me : partharoy200131@gmail.com
-
+<hr/>
+<div>
+    <a href="" target="_blank"> <img src="/Resources/name.gif" alt="csharp" width="40" height="40"/> </a>
+</div>
 <hr/>
 <div>
     <b>Languages :</b> <br/>
