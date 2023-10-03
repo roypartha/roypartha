@@ -6,12 +6,14 @@
 - 💬 Ask me about any tech related question
 - 📫 How to reach me : partharoy200131@gmail.com
 <hr/>
-<div>
-    <a href="" target="_blank"> <img src="/Resources/name.gif" alt="csharp" width="350" height="200"/> </a>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <a href="" target="_blank">
+        <img src="/Resources/name.gif" alt="csharp" width="350" height="200"/>
+    </a>
 </div>
 <hr/>
 <div>
-    <b>Languages :</b> <br/>
+    <b>Languages : </b> <br/>
     <!-- C# -->
     <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
     <!-- JAVA -->
