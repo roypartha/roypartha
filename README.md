@@ -3,6 +3,9 @@
 I'm a software developer currently working on my portfolio website. I'm passionate about learning and coding in various languages. Feel free to reach out if you have any tech-related questions.
 
 <hr/>
+<div align="center">
+    <img src="/Resources/skills.gif" alt="Skills GIF" width="250" height="100"/>
+</div>
 
 <div>
     <b>Languages : </b> <br/>
