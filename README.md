@@ -3,11 +3,7 @@
 I'm a software developer currently working on my portfolio website. I'm passionate about learning and coding in various languages. Feel free to reach out if you have any tech-related questions.
 
 <hr/>
-<div align="center">
-<img src="/Resources/coding.gif" alt="Coding GIF" width="450" height="300"/>
-<img src="/Resources/My_Name.gif" alt="Coding GIF" width="450" height="300"/>
-</div> 
-<hr/>
+
 <div>
     <b>Languages : </b> <br/>
     <!-- C# -->
@@ -81,7 +77,19 @@ I'm a software developer currently working on my portfolio website. I'm passiona
     <!-- CodeBlocks -->
     <a href="http://www.codeblocks.org/downloads/binaries/" target="_blank" rel="noreferrer"> <img src="https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/org.codeblocks.codeblocks.png" alt="codeBlocks" width="40" height="40"/> </a>
 </div>
+<div align="center">
+<img src="/Resources/coding.gif" alt="Coding GIF" width="450" height="300"/>
+<img src="/Resources/My_Name.gif" alt="Coding GIF" width="450" height="300"/>
+</div> 
+<hr/>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=roypartha)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roypartha)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=roypartha&show_icons=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=roypartha)  
 ## Portfolio
 
 Here's a sneak peek of my portfolio website:
