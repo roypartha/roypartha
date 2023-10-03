@@ -3,11 +3,7 @@
 I'm a software developer currently working on my portfolio website. I'm passionate about learning and coding in various languages. Feel free to reach out if you have any tech-related questions.
 
 <hr/>
-<div style="display: flex; justify-content: center; align-items: center;">
-    <a href="" target="_blank">
-        <img src="/Resources/name.gif" alt="csharp" width="350" height="200"/>
-    </a>
-</div>
+<div class="tenor-gif-embed" data-postid="24297652" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/coding-gif-24297652">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <hr/>
 <div>
     <b>Languages : </b> <br/>
