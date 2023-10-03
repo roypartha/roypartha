@@ -4,7 +4,7 @@ I'm a software developer currently working on my portfolio website. I'm passiona
 
 <hr/>
 <div align="center">
-    <img src="/Resources/skills.gif" alt="Skills GIF" width="250" height="100"/>
+    <img src="/Resources/skills.gif" alt="Skills GIF" width="230" height="80"/>
 </div>
 
 <div>
@@ -80,6 +80,7 @@ I'm a software developer currently working on my portfolio website. I'm passiona
     <!-- CodeBlocks -->
     <a href="http://www.codeblocks.org/downloads/binaries/" target="_blank" rel="noreferrer"> <img src="https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/org.codeblocks.codeblocks.png" alt="codeBlocks" width="40" height="40"/> </a>
 </div>
+<hr/>
 <div align="center">
 <img src="/Resources/coding.gif" alt="Coding GIF" width="400" height="280"/>
 <img src="/Resources/My_Name.gif" alt="Coding GIF" width="400" height="280"/>
@@ -93,10 +94,10 @@ I'm a software developer currently working on my portfolio website. I'm passiona
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=roypartha&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=roypartha)  
-## Portfolio
+<!--- ## Portfolio
 
 Here's a sneak peek of my portfolio website:
-![Portfolio](/Resources/name.gif)
+![Portfolio](/Resources/name.gif)--->
 
 You can also reach me via email at partharoy200131@gmail.com.
 
