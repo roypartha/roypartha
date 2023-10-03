@@ -4,7 +4,7 @@ I'm a software developer currently working on my portfolio website. I'm passiona
 
 <hr/>
 <div class="tenor-gif-embed" data-postid="24297652" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%">
-<img href="/Resources/coding.gif" alt="Coding GIF" width="500" height="400"/>
+<img src="/Resources/coding.gif" alt="Coding GIF" width="500" height="400"/>
 </div> 
 <hr/>
 <div>
