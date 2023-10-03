@@ -3,7 +3,7 @@
 I'm a software developer currently working on my portfolio website. I'm passionate about learning and coding in various languages. Feel free to reach out if you have any tech-related questions.
 
 <hr/>
-<div class="tenor-gif-embed" data-postid="24297652" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%">
+<div align="center">
 <img src="/Resources/coding.gif" alt="Coding GIF" width="300" height="300"/>
 <img src="/Resources/My_Name.gif" alt="Coding GIF" width="300" height="300"/>
 </div> 
