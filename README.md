@@ -4,8 +4,8 @@ I'm a software developer currently working on my portfolio website. I'm passiona
 
 <hr/>
 <div align="center">
-<img src="/Resources/coding.gif" alt="Coding GIF" width="500" height="300"/>
-<img src="/Resources/My_Name.gif" alt="Coding GIF" width="500" height="300"/>
+<img src="/Resources/coding.gif" alt="Coding GIF" width="450" height="300"/>
+<img src="/Resources/My_Name.gif" alt="Coding GIF" width="450" height="300"/>
 </div> 
 <hr/>
 <div>
