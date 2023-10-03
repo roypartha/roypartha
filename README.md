@@ -81,8 +81,8 @@ I'm a software developer currently working on my portfolio website. I'm passiona
     <a href="http://www.codeblocks.org/downloads/binaries/" target="_blank" rel="noreferrer"> <img src="https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/org.codeblocks.codeblocks.png" alt="codeBlocks" width="40" height="40"/> </a>
 </div>
 <div align="center">
-<img src="/Resources/coding.gif" alt="Coding GIF" width="450" height="300"/>
-<img src="/Resources/My_Name.gif" alt="Coding GIF" width="450" height="300"/>
+<img src="/Resources/coding.gif" alt="Coding GIF" width="430" height="300"/>
+<img src="/Resources/My_Name.gif" alt="Coding GIF" width="430" height="300"/>
 </div> 
 <hr/>
 
