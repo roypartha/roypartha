@@ -1,7 +1,7 @@
 # Hi, I'm Partha Roy! 👋
 
--🔭I'm a software developer currently working on my portfolio website. I'm passionate about learning and coding in various languages. Feel free to reach out if you have any tech-related questions.
--📫 How to reach me : partharoy200131@gmail.com
+🔭I'm a software developer currently working on my portfolio website. I'm passionate about learning and coding in various languages. Feel free to reach out if you have any tech-related questions.<br>
+📫 How to reach me : partharoy200131@gmail.com
 
 <hr/>
 <div align="center">
